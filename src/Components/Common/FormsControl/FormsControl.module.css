@@ -1,0 +1,7 @@
+.errorBox {
+  border: 1px solid red;
+  height: 50px;
+}
+.errorBox span {
+  color: red;
+}

@@ -1,0 +1,10 @@
+.userIconBox img {
+  width: 100px;
+}
+.selectedPage {
+  font-weight: bold;
+  cursor: pointer;
+}
+.pageNumber {
+  cursor: pointer;
+}

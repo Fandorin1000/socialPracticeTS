@@ -1,0 +1,8 @@
+.formBox div {
+  margin: 10px auto;
+}
+
+.mainError {
+  border: 5px solid red;
+  color: red;
+}
